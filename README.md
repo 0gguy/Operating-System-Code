@@ -1,2 +1,8 @@
 # Operating-System-Code
 This repository contains codes of several CPU Scheduling Algorithm such as
+1.SRTF
+2.ROUNDROBIN ALGORITHM
+3.PRIORITY SCHEDULING
+4.OPTIMAL PAGE REPLACEMENT
+5.FCFS (NON PREMPTIVE)
+6.BANKERS ALGORITHM
